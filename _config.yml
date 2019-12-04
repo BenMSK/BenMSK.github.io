@@ -14,7 +14,7 @@ sass:
   style: :nested
 
 # Site settings
-title:		           "Minsoo Kim"
+title:		           "POSSIBLE"
 email:				"msk930512@snu.ac.kr"
 description:	       "My first blog page"
 url: 				"https://localhost:4000"
