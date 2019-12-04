@@ -14,11 +14,11 @@ sass:
   style: :nested
 
 # Site settings
-title:		           "Hey Cinnamon"
+title:		           "Minsoo Kim"
 email:				"msk930512@snu.ac.kr"
 description:	       "My first blog page"
 url: 				"https://localhost:4000"
-author:              "Paul Le"
+# author:              "Paul Le"
 github_username:    "BenMSK"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
